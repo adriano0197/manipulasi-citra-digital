@@ -3,8 +3,8 @@
 Projek ini dibuat untuk memenuhi tugas mata kuliah **Pengolahan Sinyal Digital**. Eksperimen ini berfokus pada teknik manipulasi dasar citra digital menggunakan Python dan OpenCV, serta analisis dampaknya terhadap piksel, kecerahan, kontras, dan detail citra.
 
 ## 👥 Identitas Mahasiswa
-- **Nama:** [Masukkan Nama Kamu]
-- **NIM:** [Masukkan NIM Kamu]
+- **Nama:** Muhammad Adriano Sakharahman
+- **NIM:** 452024611059
 - **Mata Kuliah:** Pengolahan Sinyal Digital
 
 ## 📂 Struktur Repositori
